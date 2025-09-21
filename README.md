@@ -49,6 +49,7 @@ Clone the repo:
 ```bash
   docker-compose up -d
 ```
+Zipkin  UI will be available at localhost:9411.
 
 ### Backend
 1. Enter your OpenRouter API Key in the .env file
