@@ -63,7 +63,7 @@ Clone the repo:
 ```
 ### Frontend
 1. Enter your Backend URL in the .env file. Default port configured to 3001.
-If you want to change the port, you also need to change the backend PORT value.
+If you want to change the port, you also need to change the backend/.env PORT value.
 ```bash
   VITE_SERVER_API_URL=<YOUR-BACKEND-URL>
 ```
